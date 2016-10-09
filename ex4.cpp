@@ -12,6 +12,8 @@
 #include <stdexcept>
 #include <string>
 
+// This file is on a github
+
 /* Private function prototypes */
 void GetCoefficients(double & a, double & b, double & c);
 void SolveQuadratic(double a, double b, double c, double & x1, double & x2);
