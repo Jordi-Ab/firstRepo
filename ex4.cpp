@@ -13,6 +13,7 @@
 #include <string>
 
 // This file is on a github
+// Now, what happens if I modify it from my Linux machine ?
 
 /* Private function prototypes */
 void GetCoefficients(double & a, double & b, double & c);
